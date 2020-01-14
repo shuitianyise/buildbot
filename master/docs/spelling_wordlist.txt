@@ -360,6 +360,7 @@ hardcodes
 hardcoding
 hasn
 Hassler
+hgpoller
 hgweb
 highlevel
 hipchat
@@ -489,6 +490,7 @@ MaxQ
 maxWarnCount
 mbcs
 md
+mergeability
 mergeable
 metabuildbot
 metacharacters
@@ -809,6 +811,7 @@ testsuite
 textarea
 tgrid
 tgz
+tls
 th
 timestamp
 Todo
@@ -883,6 +886,7 @@ userlist
 username
 Username
 usernames
+useTls
 utf
 UTF
 util
